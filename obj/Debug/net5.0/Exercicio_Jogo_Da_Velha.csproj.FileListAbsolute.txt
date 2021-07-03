@@ -1,0 +1,16 @@
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\bin\Debug\net5.0\Exercicio_Jogo_Da_Velha.exe
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\bin\Debug\net5.0\Exercicio_Jogo_Da_Velha.deps.json
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\bin\Debug\net5.0\Exercicio_Jogo_Da_Velha.runtimeconfig.json
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\bin\Debug\net5.0\Exercicio_Jogo_Da_Velha.runtimeconfig.dev.json
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\bin\Debug\net5.0\Exercicio_Jogo_Da_Velha.dll
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\bin\Debug\net5.0\ref\Exercicio_Jogo_Da_Velha.dll
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\bin\Debug\net5.0\Exercicio_Jogo_Da_Velha.pdb
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\obj\Debug\net5.0\Exercicio_Jogo_Da_Velha.csproj.AssemblyReference.cache
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\obj\Debug\net5.0\Exercicio_Jogo_Da_Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\obj\Debug\net5.0\Exercicio_Jogo_Da_Velha.AssemblyInfoInputs.cache
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\obj\Debug\net5.0\Exercicio_Jogo_Da_Velha.AssemblyInfo.cs
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\obj\Debug\net5.0\Exercicio_Jogo_Da_Velha.csproj.CoreCompileInputs.cache
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\obj\Debug\net5.0\Exercicio_Jogo_Da_Velha.dll
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\obj\Debug\net5.0\ref\Exercicio_Jogo_Da_Velha.dll
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\obj\Debug\net5.0\Exercicio_Jogo_Da_Velha.pdb
+C:\Users\Leleh\source\repos\Exercicio_Jogo_Da_Velha\Exercicio_Jogo_Da_Velha\obj\Debug\net5.0\Exercicio_Jogo_Da_Velha.genruntimeconfig.cache
